@@ -6,7 +6,7 @@ import paytmQr from "../../images/paytmQR.jpg";
 const DonatePage = () => {
   return (
     <main style={{ margin: "10px" }}>
-      <br />
+      {/* <br />
       <Typography variant="h5" align="center">
         Support Me{" "}
         <span role="img" aria-label="hands joining">
@@ -60,7 +60,7 @@ const DonatePage = () => {
       </a>
       <div>
         <img className="paytmQR" src={paytmQr} alt="paytm qr code" />
-      </div>
+      </div> */}
     </main>
   );
 };

@@ -86,7 +86,7 @@ function SimpleAppBar(props) {
             <Menu />
           </IconButton>
           <Typography variant="h6" color="inherit" style={styles.title}>
-            Relexo Music
+            Relaxo Music
           </Typography>
           <IconButton
             onClick={() => setSearchState("clicked")}
